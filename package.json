@@ -3,7 +3,6 @@
   "version": "0.0.5",
   "description": "A vitepress plugin, according to the structure of the files and folders to automatically generate the sidebar.",
   "main": "lib/index.js",
-  "type": "module",
   "scripts": {
     "test": "jest",
     "lint": "eslint --ext .ts,.js .",
