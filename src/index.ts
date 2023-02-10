@@ -123,7 +123,6 @@ function side(baseDir: string, options?: Options) {
     }
   });
 
-  console.info('sidebar is create:', JSON.stringify(sidebars));
   return sidebars;
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "vitepress-plugin-sidebar",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A vitepress plugin, according to the structure of the files and folders to automatically generate the sidebar.",
   "main": "lib/index.js",
   "scripts": {
