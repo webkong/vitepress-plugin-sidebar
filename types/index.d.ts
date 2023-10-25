@@ -1,6 +1,6 @@
 interface SidebarGroup {
     text: string;
-    items: SidebarItem[];
+    items: SidebarItem[] | SidebarGroup[];
     collapsed?: boolean;
 }
 interface SidebarItem {
